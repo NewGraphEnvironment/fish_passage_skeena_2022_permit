@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="54.456608209386722" minlon="-122.722924148009028" maxlat="54.959345980774749" maxlon="-121.707938696041438"/></metadata>              
+<wpt lat="54.731056210880418" lon="-122.224130296425869">
+  <name>125231</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.959345980774749" lon="-122.722924148009028">
+  <name>197486</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.598706160753316" lon="-122.020298155298974">
+  <name>125194</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.610284100261197" lon="-121.888417962830587">
+  <name>125175</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.617303526587861" lon="-121.986767269642399">
+  <name>125186</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.831459545335591" lon="-122.470823745592313">
+  <name>6745</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.620060382339872" lon="-121.921106672801884">
+  <name>125180</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.61806461839965" lon="-121.911202637053805">
+  <name>125179</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.456608209386722" lon="-121.72121987364531">
+  <name>125098</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.859699612897991" lon="-122.469460696322727">
+  <name>124954</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.513467194047095" lon="-122.186787224179056">
+  <name>57689</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.485051563027689" lon="-122.009489013768118">
+  <name>57696</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.60471170657658" lon="-121.868479954620426">
+  <name>125170</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.60693741940382" lon="-121.707938696041438">
+  <name>125128</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.764802128943103" lon="-122.1099360667735">
+  <name>125208</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.477832315492321" lon="-121.785782284183654">
+  <name>197500</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.492889280335127" lon="-122.023517987729562">
+  <name>57695</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.643405112594394" lon="-122.570864733634167">
+  <name>125431</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.798987194180306" lon="-122.489436810637514">
+  <name>6731</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.833073503128212" lon="-122.429114592111574">
+  <name>6746</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.832886738742928" lon="-122.429201345715398">
+  <name>6824</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.903340474109044" lon="-122.238793401183429">
+  <name>6828</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.910858355121988" lon="-122.685730594883537">
+  <name>57606</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.645680088989295" lon="-122.588724745976634">
+  <name>57620</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.66642749137813" lon="-122.588420328131633">
+  <name>57621</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.754664742291084" lon="-122.483740639907566">
+  <name>57681</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.899579287669773" lon="-122.64802013853604">
+  <name>57687</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.559878138379439" lon="-122.148941537581621">
+  <name>57690</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.565528031886295" lon="-122.072829126616028">
+  <name>57701</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.735832996524323" lon="-122.502689312351265">
+  <name>57718</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.840491194199345" lon="-122.576019891251363">
+  <name>57746</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.674910939688353" lon="-122.362390614261727">
+  <name>57751</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.565404744067109" lon="-122.072955084992458">
+  <name>124963</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.485863003505564" lon="-121.803651312976797">
+  <name>124998</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.485632167842503" lon="-121.803063353279271">
+  <name>125000</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.595104886628093" lon="-121.88486740133672">
+  <name>125149</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.769404116483685" lon="-122.041988963452525">
+  <name>125196</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.760507354331622" lon="-122.110514542283255">
+  <name>125206</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.764613664117967" lon="-122.113451078067655">
+  <name>125207</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.716887326030474" lon="-122.266723084698071">
+  <name>125243</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.710710061213177" lon="-122.333767454262855">
+  <name>125247</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.720400523843153" lon="-122.389943639086511">
+  <name>125251</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.720597337849135" lon="-122.402525314184004">
+  <name>125252</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.728428287299145" lon="-122.414032433341646">
+  <name>125253</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.732248569019525" lon="-122.421913236029042">
+  <name>125254</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.735029819381083" lon="-122.432837092045133">
+  <name>125257</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.755980215328577" lon="-122.462359989648888">
+  <name>125261</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.914454147520551" lon="-122.234949376352631">
+  <name>125284</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.840414427335048" lon="-122.576150876131621">
+  <name>125341</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.89948532937516" lon="-122.648267763637079">
+  <name>125345</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.754813001498682" lon="-122.483492099206416">
+  <name>125353</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.910807521095968" lon="-122.685895322328719">
+  <name>125403</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.524742838359849" lon="-122.164242374826202">
+  <name>125428</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.712325800927928" lon="-122.334524958596234">
+  <name>197482</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.728168191019449" lon="-122.414703737878952">
+  <name>197492</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.720849494095987" lon="-122.389762727602815">
+  <name>197496</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+<wpt lat="54.710886782485801" lon="-122.541428359386146">
+  <name>197497</name>
+  <desc>bt_rearing_km</desc>
+</wpt>
+</gpx>
