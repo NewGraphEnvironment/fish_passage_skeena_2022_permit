@@ -28,9 +28,8 @@ Date: `r format(Sys.Date(), "%Y-%m-%d")`
 
 
 Ministry of Environment  
-3726 Alfred Street  
-Bag 5000
-Smithers B.C. V0J 2N0
+and
+Fisheries and Oceans Canada
 
 
 
@@ -75,7 +74,7 @@ This permit application can also be viewed online [at this link](`r knitr::asis_
 
 <br>
 
-This work is a collaboration of many groups and an initiative of the Society for Ecosystem Restoration Northern BC. Al Irvine, R.P.Bio from New Graph Environment Ltd. is leading the fieldwork with field teams from the Office of Wet'suwet'en, Gitxsan Development Corporation and Nico Ridge Consulting Ltd.
+This work is a collaboration of many groups and an initiative of the Society for Ecosystem Restoration Northern BC. Funding for the project is through the Habitat Conservation Trust Fund, the Provincial Fish Passage Technical Working Group, the BC Ministry of Transportation and the Canadian Wildlife Federation.  Al Irvine, R.P.Bio from New Graph Environment Ltd. is leading the fieldwork with field and office collaboration with teams from the Office of Wet'suwet'en, Gitxsan Development Corporation and Nico Ridge Consulting Ltd.
 
 <br>
 
