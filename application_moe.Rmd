@@ -70,7 +70,7 @@ photo_width <- "80%"
 font_set <- 8
 ```
 
-This permit application can also be viewed online [at this link](`r knitr::asis_output(link_repo)`).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites1) and \@ref(tab:tab-sites2),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](`r knitr::asis_output(link_kml)`).  
+This permit application can also be viewed online [at this link](`r knitr::asis_output(link_repo)`).  A summary of sites to be potentially assessed is included as Table \@ref(tab:tab-sites1) and \@ref(tab:tab-sites2),  details of fish species potentially encountered is presented in  Table \@ref(tab:tab-fish) and an overview map displaying potential sample locations is included as Figure 1. A kml file of the sites is included as an attachment to the application and can also be downloaded [from here at this link](`r knitr::asis_output(link_kml)`).  Please note that there is an extensive amount of information contained in the kml file (accessed by clicking on sites) including brief summaries of background reporting data (when available).
 
 <br>
 
