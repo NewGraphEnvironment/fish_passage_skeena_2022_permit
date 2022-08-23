@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="54.018319860940686" minlon="-128.461832680074821" maxlat="55.746277877965269" maxlon="-126.021687768562089"/></metadata>              
+<wpt lat="55.239408172759639" lon="-127.601840612459753">
+  <name>1001803294_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.450256918900394" lon="-126.098849747782424">
+  <name>1001804538_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.494653916053089" lon="-126.191237437545624">
+  <name>1001801115_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.93290688505688" lon="-127.482197019574656">
+  <name>57978_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.970868569825583" lon="-127.285844719769543">
+  <name>58067_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.792305794485088" lon="-127.181079431311687">
+  <name>58242_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.639033649247672" lon="-126.878185602700583">
+  <name>123426_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.847961034206321" lon="-127.002071284632777">
+  <name>123699_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.593182059236113" lon="-126.832777664611243">
+  <name>195290_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.476033436814262" lon="-126.215929184564985">
+  <name>197974_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.517530124321702" lon="-126.442717920937852">
+  <name>1001800067_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.484649405753629" lon="-126.344308554653708">
+  <name>1001800403_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.226490134717757" lon="-126.941254721305995">
+  <name>1001806259_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.828403054570202" lon="-127.574355515797677">
+  <name>8511_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.186122523544967" lon="-127.760631693832096">
+  <name>1008300144_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.311610585413341" lon="-127.663566801791532">
+  <name>1008300023_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.496626500037856" lon="-127.761361654054767">
+  <name>1008300105_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.279381322747206" lon="-128.071871797892584">
+  <name>1008300178_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.256570473963912" lon="-127.750132215276111">
+  <name>1008300856_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.487784867515067" lon="-127.747477082664645">
+  <name>1008300104_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.432956421599023" lon="-127.730323133623173">
+  <name>1008301326_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.195721274718565" lon="-126.973248313770867">
+  <name>1014000819_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.524378490832831" lon="-126.814094681392859">
+  <name>57793_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.621604699263038" lon="-126.854005789543578">
+  <name>123392_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.620812282427167" lon="-126.854858090278952">
+  <name>123393_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.855819159695045" lon="-126.987461392480441">
+  <name>123697_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.620791687247639" lon="-126.919487357861328">
+  <name>124504_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.591902936823224" lon="-126.81879358016738">
+  <name>195288_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.620085926864604" lon="-127.140750319755867">
+  <name>195559_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.442262052400537" lon="-126.757149362878749">
+  <name>195943_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.446760465246555" lon="-126.749455729610688">
+  <name>195944_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.51823614345777" lon="-126.442776647005033">
+  <name>197653_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.620983930646894" lon="-126.919289309522554">
+  <name>197668_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.490377876214744" lon="-126.217827043389633">
+  <name>198065_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.447286765479163" lon="-126.748311225627987">
+  <name>1001800255_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.657511304508589" lon="-126.87993338645262">
+  <name>1001800670_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.484589499718503" lon="-127.351619856895766">
+  <name>1001800865_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.128466869352884" lon="-126.801048216279526">
+  <name>1001801039_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.52104502233356" lon="-126.443808407790229">
+  <name>1001801071_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.493826764278779" lon="-126.204587167829175">
+  <name>1001801123_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.650125199433319" lon="-126.876046437785405">
+  <name>1001801328_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.423641880732639" lon="-126.12621912200386">
+  <name>1001802047_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.590941198130515" lon="-126.436953159942732">
+  <name>1001802069_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.146377160215984" lon="-126.021687768562089">
+  <name>1001802239_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.037426272430388" lon="-127.305240177290457">
+  <name>1001802374_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.529428115638261" lon="-126.823874531630224">
+  <name>1001802482_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.609679649964797" lon="-126.922437549838662">
+  <name>1001802798_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.106197923135312" lon="-126.690017167168151">
+  <name>1001803607_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.422770309606747" lon="-126.071621132349264">
+  <name>1001805019_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.425503412451768" lon="-126.764741946599145">
+  <name>1001805507_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.590034724456686" lon="-126.914337466942797">
+  <name>1100001493_cwf_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.182093255820945" lon="-126.839844953776691">
+  <name>197379_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.157190553876191" lon="-126.800514023051392">
+  <name>197365_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.191884040976376" lon="-127.365921675540974">
+  <name>197926_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.231379972795317" lon="-127.158596996033751">
+  <name>197951_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.360645767830938" lon="-126.791801851511664">
+  <name>197962_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.135837620111744" lon="-127.111667968472872">
+  <name>198064_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.318004789801662" lon="-126.898430908878154">
+  <name>1014000855_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.805181196191349" lon="-127.712853568391225">
+  <name>8530_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.773583825110279" lon="-127.40354554846445">
+  <name>1024600895_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.197785589915064" lon="-127.743789535706895">
+  <name>1008300142_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.51101962709869" lon="-127.656107658084039">
+  <name>1008300128_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.943055579048554" lon="-127.58499197266643">
+  <name>1008302085_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.679876951053053" lon="-128.37799165733415">
+  <name>1008302116_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.631359382756756" lon="-128.057484117061904">
+  <name>1008302371_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.656458565025012" lon="-128.32501115113962">
+  <name>1008302403_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.380086399266261" lon="-126.737746240004725">
+  <name>1014000009_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.230593506765686" lon="-126.848927301109725">
+  <name>1014000768_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.146763019406137" lon="-126.796746753937057">
+  <name>198060_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.287653943490987" lon="-126.976661152561149">
+  <name>1014000571_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.238517962274486" lon="-127.144649093498117">
+  <name>1014001120_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.324980143974315" lon="-126.885372103816863">
+  <name>1014000057_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.224867088579622" lon="-127.240415750761755">
+  <name>198022_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.131665521191003" lon="-127.263818625773098">
+  <name>1014000255_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.227163585855926" lon="-126.996614064483879">
+  <name>197954_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.324587508790913" lon="-127.337251422698117">
+  <name>198016_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.05842959418375" lon="-127.244476192208765">
+  <name>1014000666_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.816465812722313" lon="-127.522256464096998">
+  <name>1024601067_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.049560356238445" lon="-127.27888502387087">
+  <name>1024702220_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.046454876505479" lon="-127.30835616879466">
+  <name>8742_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.812696960933614" lon="-127.739613945778757">
+  <name>8525_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.763316075163679" lon="-127.367728536261225">
+  <name>8518_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.811846282894784" lon="-127.700706158166966">
+  <name>8532_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.386991370777807" lon="-127.625807490861632">
+  <name>1008302257_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.789769221921482" lon="-127.567067762073791">
+  <name>8543_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.808948811155254" lon="-127.815414623436709">
+  <name>8454_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.8115335819652" lon="-127.811370950818841">
+  <name>8455_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.80526415070284" lon="-127.71303869552662">
+  <name>1024600913_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.829396411188597" lon="-127.729348199029985">
+  <name>8465_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.263783069311209" lon="-127.748883443988291">
+  <name>1008300849_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.399318097876815" lon="-127.676524797904264">
+  <name>1008300024_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.642897894366897" lon="-127.981132505204187">
+  <name>1008301754_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.400112488552864" lon="-128.169156873206532">
+  <name>1008300437_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.781000800980848" lon="-127.68731192766198">
+  <name>1024601216_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.407254960920433" lon="-128.170397207451913">
+  <name>1008300440_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.767872642700247" lon="-127.599941410343561">
+  <name>8478_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.517865211947566" lon="-127.922232016507664">
+  <name>1008302422_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.660131230425058" lon="-128.288253319100249">
+  <name>1008301137_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.639943552050546" lon="-127.900150832768745">
+  <name>1008301892_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.214935602318086" lon="-127.673495099894041">
+  <name>1008302868_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.430989945432188" lon="-128.037654097540468">
+  <name>8414_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.808146656841714" lon="-127.721317212546808">
+  <name>8527_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.793088546625782" lon="-127.600423302032183">
+  <name>8547_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.790162926303992" lon="-127.645146310868071">
+  <name>8545_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.454094590259324" lon="-127.727201841246355">
+  <name>1008300103_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.503254727004048" lon="-127.788719248873662">
+  <name>1008300483_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.129105233715848" lon="-128.005283116996281">
+  <name>1008300095_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.428020543905198" lon="-127.737152737297237">
+  <name>1008300492_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.646490657794729" lon="-128.088375098241556">
+  <name>1008302377_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.339942592320718" lon="-128.290936574967532">
+  <name>1008301923_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.099265401210943" lon="-127.964712092194901">
+  <name>1008302857_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.732038316833133" lon="-128.461832680074821">
+  <name>1008300124_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.318422447682963" lon="-127.676329840212105">
+  <name>1008300001_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.086588357038814" lon="-128.122113304898647">
+  <name>1008301446_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.094105345508481" lon="-127.917160854595906">
+  <name>1008300970_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.576525507853411" lon="-127.997509091744874">
+  <name>1008301290_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.710501234580882" lon="-128.383665176926741">
+  <name>1008301242_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.493438371867931" lon="-127.811714261172142">
+  <name>1008300161_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.475729910076893" lon="-127.837088568076069">
+  <name>1008302518_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.088135363065639" lon="-128.020887144914781">
+  <name>1008300157_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.18228735445927" lon="-127.736345068401434">
+  <name>1008302869_sfc_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.508584129401292" lon="-127.843601022976685">
+  <name>1008300162_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.662853379624408" lon="-128.008274188183861">
+  <name>1008302758_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.483706431126627" lon="-127.849784832887394">
+  <name>1008300118_NA_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.409896635503621" lon="-128.205468473496865">
+  <name>1008301994_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.406447896573297" lon="-128.214113412903998">
+  <name>1008300465_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.746277877965269" lon="-128.326889539828642">
+  <name>1008302324_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.544454983311489" lon="-127.907990762790575">
+  <name>1008300163_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.288832570056464" lon="-128.081729421975467">
+  <name>1008300188_NA_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.678677236998261" lon="-127.993847401046622">
+  <name>1008301747_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.519256365515801" lon="-126.420970600547008">
+  <name>197658_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.511414511746111" lon="-126.298625481294778">
+  <name>198049_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.521771657731612" lon="-126.369981540486819">
+  <name>197663_sfc_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.402271299451989" lon="-126.035209838381533">
+  <name>197967_hab_con_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.475775976944263" lon="-126.209025520866106">
+  <name>197975_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.508438011856605" lon="-126.306223336551881">
+  <name>198048_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.572225088615312" lon="-126.808973544137771">
+  <name>123377_hab_con_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.560597923437953" lon="-126.831081437879334">
+  <name>198066_hab_con_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.659539996639488" lon="-127.022770246754703">
+  <name>124500_hab_con_high</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.67520600751692" lon="-127.020432062613793">
+  <name>58159_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.236136607527051" lon="-126.632239585699821">
+  <name>197640_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.594736458458165" lon="-126.447806916703158">
+  <name>3054_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.057949265335793" lon="-126.70931336780437">
+  <name>197360_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.094731381393785" lon="-127.185501754764303">
+  <name>123795_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="55.093980916698015" lon="-127.180562665419984">
+  <name>123794_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+<wpt lat="54.018319860940686" lon="-127.376067556933208">
+  <name>198008_hab_con_mod</name>
+  <desc>st_rearing_km</desc>
+</wpt>
+</gpx>
