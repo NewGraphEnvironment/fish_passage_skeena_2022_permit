@@ -384,7 +384,7 @@ zip::zipr(paste0("docs/sites_", name_project, '_', format(Sys.Date(), "%Y%m%d"),
 
 
 
-```{r map, fig.cap= 'Location of potential sample sites.'}
+```{r map, fig.cap= 'Location of potential sample sites.', eval = F}
 
 
 ##register google key defined in 'R/private_info.R' file
@@ -448,7 +448,7 @@ table_sites %>%
   arrange(id) %>% 
   select(id, 
          stream_name, wsc_code, lat, long, watershed_group_code) %>% 
-  knitr::kable(caption = 'Potential tagging locations.') %>% 
+  knitr::kable(caption = 'Potential sampling locations.') %>% 
   kableExtra::kable_styling(c("condensed", "responsive"),
                               full_width = T,
                               font_size = 8)
@@ -466,7 +466,7 @@ table_sites %>%
 
 <br>
 
-```{r tab-sites2, eval = T}
+```{r tab-sites2, eval = F}
 # build a table with overall details
 # there is something wrong with kableextra that is causing issues with the col_width_min function
 # this works but any changes (increase number, add columns etc. breaks it)
@@ -510,6 +510,7 @@ table_sites %>%
          sp_upstr = observedspp_upstr,
          fish_tags,
          followup_comments) %>% 
+  filter(id %in% sites_tagging) %>% 
   knitr::kable(caption = 'Potential sample site details.') %>% 
   kableExtra::kable_styling(c("condensed", "responsive"),
                               full_width = T,
