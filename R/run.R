@@ -8,8 +8,8 @@
 
 
 ##move the html to the docs folder so it can be viewed online
-file.rename('application_moe.html', 'docs/index.html')
-file.rename('application_moe.pdf', 'docs/application_moe.pdf')
+file.rename('application_moe_revised.html', 'docs/index.html')
+file.rename('application_moe_revised.pdf', 'docs/application_moe.pdf')
 
 
 
